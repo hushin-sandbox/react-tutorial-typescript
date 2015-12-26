@@ -1,0 +1,22 @@
+{
+  "name": "react-tutorial-typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hushin/react-tutorial-typescript.git"
+  },
+  "homepage": "https://github.com/hushin/react-tutorial-typescript",
+  "bugs": {
+    "url": "https://github.com/hushin/react-tutorial-typescript/issues"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hushin",
+  "license": "MIT",
+  "description": ""
+}
