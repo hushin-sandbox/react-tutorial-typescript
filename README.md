@@ -1,4 +1,4 @@
-react-tutorial-typescript
+React Tutorial TypeScript
 ====
 
 
