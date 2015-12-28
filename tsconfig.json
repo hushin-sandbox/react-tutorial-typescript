@@ -1,0 +1,42 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "rootDir": "src",
+        "outDir": "lib"
+    },
+    "filesGlob": [
+        "**/*.ts",
+        "**/*.tsx",
+        "!node_modules/**"
+    ],
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "files": [
+        "src/interfaces.ts",
+        "typings/bundle.d.ts",
+        "typings/node/node.d.ts",
+        "typings/react/react-dom.d.ts",
+        "typings/react/react.d.ts",
+        "typings/superagent/superagent.d.ts",
+        "src/component/Comment.tsx",
+        "src/component/CommentBox.tsx",
+        "src/component/CommentForm.tsx",
+        "src/component/CommentList.tsx",
+        "src/index.tsx"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}

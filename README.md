@@ -8,7 +8,25 @@ React Tutorial TypeScript
 
 ## Setup
 
+```
+npm install -g dtsm gulp
+npm install
+dtsm install
+```
+
+```
+cd server
+npm install
+```
+
 ## Usage
+
+```
+gulp
+open http://localhost:3000/
+node server/server.js
+```
+
 
 ## Licence
 
